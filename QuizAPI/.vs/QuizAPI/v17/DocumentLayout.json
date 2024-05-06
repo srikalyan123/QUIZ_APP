@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|d:\\projects\\personal projects\\quiz-app-with-react-asp.net\\quizapi\\quizapi\\models\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\models\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|d:\\projects\\personal projects\\quiz-app-with-react-asp.net\\quizapi\\quizapi\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|d:\\projects\\personal projects\\quiz-app-with-react-asp.net\\quizapi\\quizapi\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|d:\\projects\\personal projects\\quiz-app-with-react-asp.net\\quizapi\\quizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|d:\\projects\\personal projects\\quiz-app-with-react-asp.net\\quizapi\\quizapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|d:\\projects\\personal projects\\quiz-app-with-react-asp.net\\quizapi\\quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|d:\\projects\\personal projects\\quiz-app-with-react-asp.net\\quizapi\\quizapi\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F332F2-1F52-412C-A93B-E2DB33FB5FAF}|QuizAPI\\QuizAPI.csproj|solutionrelative:quizapi\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:68873235:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Models\\QuizDbContext.cs",
+              "RelativeDocumentMoniker": "QuizAPI\\Models\\QuizDbContext.cs",
+              "ToolTip": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Models\\QuizDbContext.cs",
+              "RelativeToolTip": "QuizAPI\\Models\\QuizDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:06:37.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuizAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuizAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T04:10:07.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "QuizAPI\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\appsettings.json",
+              "RelativeToolTip": "QuizAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T03:59:59.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "QuizAPI\\Models\\Participant.cs",
+              "ToolTip": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Models\\Participant.cs",
+              "RelativeToolTip": "QuizAPI\\Models\\Participant.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAACBjwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:20:57.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "QuizAPI\\Controllers\\QuestionController.cs",
+              "ToolTip": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "QuizAPI\\Controllers\\QuestionController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:20:57.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Program.cs",
+              "RelativeDocumentMoniker": "QuizAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Program.cs",
+              "RelativeToolTip": "QuizAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:20:57.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParticipantController.cs",
+              "DocumentMoniker": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Controllers\\ParticipantController.cs",
+              "RelativeDocumentMoniker": "QuizAPI\\Controllers\\ParticipantController.cs",
+              "ToolTip": "D:\\Projects\\Personal Projects\\Quiz-App-with-React-Asp.Net\\QuizAPI\\QuizAPI\\Controllers\\ParticipantController.cs",
+              "RelativeToolTip": "QuizAPI\\Controllers\\ParticipantController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:20:57.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
